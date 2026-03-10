@@ -1,4 +1,4 @@
-# Hey there! 👋
+# Hello there! 👋
 
 I'm **Lucas**, a Systems Engineering student at UTN based in Argentina.
 
