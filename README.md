@@ -13,6 +13,6 @@ If you want to see some of my work, check out my pinned repositories below!
 ### Some Facts:
 - 🎓 Finalizing my 5th year of Systems Engineering.
 - ☕ Fan of coffee and solving bugs at 2 AM.
-- 🏋️‍♂️ Hobbies: Gym, playing football, and continuous learning.
+- 🏋️‍♂️ Hobbies: Gym, playing football, and F1.
 
 ---
