@@ -16,4 +16,3 @@ If you want to see some of my work, check out my pinned repositories below!
 - 🏋️‍♂️ Hobbies: Gym, playing football, and continuous learning.
 
 ---
-[Portfolio/Mail](mailto:carottalucas@gmail.com)
